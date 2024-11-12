@@ -3,9 +3,9 @@
 
 <h1 align="center"> 🌱 I’m currently learning **C++, pipeline dev**
 
-<h3 align="center">👨‍💻 All of my projects are available at [https://robinvandeneerenbeemd.com/](https://robinvandeneerenbeemd.com/)
+<h3 align="center">👨‍💻 All of my projects are available at (https://robinvandeneerenbeemd.com/)
 
-<h3 align="center">📄 Know about my experiences [https://www.robinvandeneerenbeemd.com/uploads/1/3/1/1/131151814/robin_cv.pdf](https://www.robinvandeneerenbeemd.com/uploads/1/3/1/1/131151814/robin_cv.pdf)
+<h3 align="center">📄 Know about my experiences (https://www.robinvandeneerenbeemd.com/uploads/1/3/1/1/131151814/robin_cv.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
