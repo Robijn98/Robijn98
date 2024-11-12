@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin van den Eerenbeemd</h1>
 <h3 align="center">Rigger/tech artist, currently studying Msc visual effects and animation at Bournemouth Uni</h3>
 
-<h1 align="center"> 🌱 I’m currently learning **C++, pipeline dev**
+<h1 align="center"> 🌱 I’m currently learning *C++, pipeline dev*
 
 <h3 align="center">👨‍💻 All of my projects are available at (https://robinvandeneerenbeemd.com/)
 
