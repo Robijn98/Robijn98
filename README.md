@@ -3,7 +3,7 @@
 
 <h1 align="center"> 🌱 I’m currently learning C++ and pipeline dev
 
-<h3 align="center">👨‍💻 Find my portfolio at (https://robinvandeneerenbeemd.com/)
+<h3 align="center">Find my portfolio at (https://robinvandeneerenbeemd.com/)
 
 <h3 align="center">📄 Find me CV at (https://www.robinvandeneerenbeemd.com/uploads/1/3/1/1/131151814/robin_cv.pdf)
 
